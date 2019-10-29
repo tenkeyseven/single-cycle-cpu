@@ -1,6 +1,6 @@
 # Tenkey's Single Cycle CPU
 
-An implementation of a single cycle CPU.
+An implementation of single cycle CPU.
 
 The figure of logic and data stream is below:
 
